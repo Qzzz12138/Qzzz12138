@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Qzzz12138
-- 👀 I’m interested in everything
-- 🌱 I’m currently learning css
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m 一只大西瓜
+- 👀 I’m interested in Unreal Engine
+- 🌱 I’m currently learning C++, C#, Java
+- 📫 yqm18526087718@gmail.com
 
 <!---
 Qzzz12138/Qzzz12138 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
